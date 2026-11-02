@@ -1878,6 +1878,10 @@
    "dai": ""
   }
  ],
+ "translation": {
+  "count": 16,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-kingyoku",
   "work": "金玉歌合",
@@ -1890,7 +1894,7 @@
   "blocks": 16,
   "chars": 3599,
   "poems": 119,
-  "yaku": 0,
+  "yaku": 16,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T21:42:33+09:00"
